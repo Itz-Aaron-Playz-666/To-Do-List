@@ -1,15 +1,9 @@
 # Security Policy
-
 ## Supported Versions
 These Are The Versions That Currently Have Security Support
 | Version.  | Supported          |
 | --------- | ------------------ |
 | 1.0 Alpha |                    |
-
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+### How Often Do You Expect A **Security Update**?
+  An Update In Published *Each Few Weeks* For **Minor Updates**(**Major Updates** Require *One Or A Few Months*)
